@@ -2,5 +2,7 @@ This is a simple calculator program written in C# that can perform basic arithme
 
 FEATURES:
 Simple and easy-to-use interface
+
 Handles division by zero error
+
 Performs basic arithmetic operations (+, -, *, /)
